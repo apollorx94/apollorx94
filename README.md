@@ -1,16 +1,42 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**apollorx94/apollorx94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Lucas Cardoso Apolinario Martins**.
 
-Here are some ideas to get you started:
+Sou Analista de Suporte e estou estudando **Desenvolvimento Web** com foco em **Backend**, construindo projetos para evoluir como desenvolvedor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Atualmente estudando
+
+- PHP
+- JavaScript
+- HTML
+- CSS
+- PostgreSQL
+- Git e GitHub
+- Linux
+
+---
+
+## 🎯 Objetivos
+
+- Me tornar Desenvolvedor Backend
+- Criar projetos completos
+- Aprender boas práticas de programação
+- Evoluir constantemente através de estudos e projetos
+
+---
+
+## 📂 Projetos em destaque
+
+- 📚 Estudos de Desenvolvimento Web
+- 💻 PHP Moderno
+- 🧩 Projetos Práticos
+- 🐧 Scripts Linux
+
+---
+
+## 📫 Contato
+
+- LinkedIn: www.linkedin.com/in/lucas-apolinario-40a746214
+- Email: lucas.c.apolinario@gmail.com
