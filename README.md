@@ -12,6 +12,7 @@ Sou Analista de Suporte e estou estudando **Desenvolvimento Web** com foco em **
 - JavaScript
 - HTML
 - CSS
+- Bootstrap
 - PostgreSQL
 - Git e GitHub
 - Linux
