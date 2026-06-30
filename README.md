@@ -31,7 +31,7 @@ Sou Analista de Suporte e estou estudando **Desenvolvimento Web** com foco em **
 ## 📂 Projetos em destaque
 
 - 📚 Estudos de Desenvolvimento Web
-- 💻 PHP Moderno
+- 💻 Apollo Clinical - CRUD
 - 🧩 Projetos Práticos
 - 🐧 Scripts Linux
 
